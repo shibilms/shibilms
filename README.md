@@ -87,7 +87,7 @@ Experimenting with Linux servers, Docker containers, reverse proxies, DNS, tunne
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=shibilms&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" height="170"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&hide_border=true" height="170"/>
 </p>
 
@@ -96,7 +96,7 @@ Experimenting with Linux servers, Docker containers, reverse proxies, DNS, tunne
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=transparent&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=shibilms&theme=transparent&hide_border=true" />
 </p>
 
 ---
