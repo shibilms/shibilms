@@ -39,3 +39,10 @@ jobs:
           git add profile/*.svg
           git commit -m "Update GitHub stats" || exit 0
           git push
+      - name: Generate GitHub Streak
+        uses: soulteary/github-readme-stats-action@v1.1.0
+        with:
+          card: stats
+          options: 'username=shibilms&theme=transparent&hide_border=true'
+          path: profile/streak.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
